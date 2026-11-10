@@ -1,4 +1,5 @@
 # Restore remote tmux sessions on macOS
+![Mosh tmux restore octopus badge](Mosh%20tmux%20restore%20octopus%20badge.jpg)
 
 Open one macOS Terminal.app window for each existing tmux session on a remote server. The script lists sessions over SSH and reattaches to each by ID over Mosh.
 
